@@ -2,7 +2,6 @@
 
 import Image from "next/image";
 import { productPesawat } from "../lib/Garuda";
-import Checkout from "../components/Checkout";
 import { useEffect } from "react";
 import CheckoutPesawat2 from "../Components/CheckoutPesawat3";
 

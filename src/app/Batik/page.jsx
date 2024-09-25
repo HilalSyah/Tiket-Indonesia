@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import { product } from "../lib/product";
-import Checkout from "../components/Checkout";
+import Checkout from "../Components/Checkout";
 import { useEffect } from "react";
 
 export default function Home() {

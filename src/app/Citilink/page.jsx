@@ -2,7 +2,6 @@
 
 import Image from "next/image";
 import { productPesawat } from "../lib/Citilink";
-import Checkout from "../components/Checkout";
 import { useEffect } from "react";
 import CheckoutPesawat3 from "../Components/CheckoutPesawat4";
 

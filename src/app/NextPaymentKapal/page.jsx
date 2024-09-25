@@ -2,7 +2,6 @@
 
 import Image from "next/image";
 import { productKapal } from "../lib/Pelni3";
-import Checkout from "../components/Checkout";
 import { useEffect } from "react";
 import CheckoutKapal3 from "../Components/CheckoutKapal3";
 
